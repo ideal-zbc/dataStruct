@@ -12,5 +12,6 @@
 int main()
 {
     printf("first data struct\r\n");
+    printf("hell world\r\n");
     return 0;
 }
